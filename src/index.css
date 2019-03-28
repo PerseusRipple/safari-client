@@ -9,4 +9,18 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: rgb(118, 156, 41);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  border: 0.05rem solid black;
+  box-shadow: 0.025rem;
+  font-size: 1.5rem;
+}
+
+p {
+  display: flex;
+  justify-content: center;
 }
